@@ -11,7 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- chatbot
+- healthbot/chatbot
 
 ## Features and Functionalities 
 
@@ -21,7 +21,7 @@ This is a web based application developed for health related based website in in
 - Has collection of many web pages including Home, About, Contact, services,chat bot,pets related topics and dogs related information etc.
 - Pooch Care theme is the best website template that enables you to make your pet care center online. There is a preinstalled blog page where you can share  
   the daily news. Clients satisfied with the service provided after the adoption or medical care can be displayed in the stat section available on the home page.
-- Included the feedback Survey form to increase the scope of improvement 
+- We also provide best feeback service.
 
 ## Screenshots
 
