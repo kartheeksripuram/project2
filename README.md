@@ -6,12 +6,12 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://agreeable-flower-0bd69e800.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/ULL_RTrcPRs
 
 ## Azure technologies used for Project
 
 - Static web apps
-- healthbot/chatbot
+- healthbot
 
 ## Features and Functionalities 
 
@@ -74,3 +74,4 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+- BOOTSTRAP
