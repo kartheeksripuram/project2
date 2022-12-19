@@ -25,6 +25,9 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
+![Screenshot (984)](https://user-images.githubusercontent.com/117726094/208359266-8c0032c5-efc1-4d2b-8f08-eff48edb531e.png)
+![Screenshot (985)](https://user-images.githubusercontent.com/117726094/208359269-8cd41c2c-e7e0-46ab-b048-b97f008cc26d.png)
+
 ![Screenshot (397)](https://user-images.githubusercontent.com/117726094/205540426-429832ee-72eb-4b7c-81e5-efa0f8832453.png)
 ![Screenshot (398)](https://user-images.githubusercontent.com/117726094/205540441-176f070a-f51e-4a84-8daa-a171c185fc9c.png)
 ![Screenshot (399)](https://user-images.githubusercontent.com/117726094/205540454-ee2affce-b958-4c50-802f-0c301163c872.png)
